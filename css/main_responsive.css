@@ -476,6 +476,7 @@ header ul.social li a.gplus{
     -moz-box-shadow: none;
     box-shadow: none;
     font-style: italic;
+    font-family: "lato_regular", arial;
 }
 
 .form-control {
