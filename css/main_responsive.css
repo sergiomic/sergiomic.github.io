@@ -568,6 +568,29 @@ header ul.social li a.gplus{
     background: #56b086;
 }
 
+.cta button.cta_btn{
+    display: inline-block;
+    padding: 20px 60px;
+    background-color: #65bf95;
+    color: #fff;
+    font-family: "lato_regular", arial;
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: 60px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+
+    -moz-border-radius: 1px;
+    -webkit-border-radius: 1px;
+    border-radius: 1px;
+
+}
+
+.cta button.cta_btn:hover{
+    background: #56b086;
+}
+
 .cta .cta_sep{
     display: block;
     width: 1px;
