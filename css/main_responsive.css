@@ -579,11 +579,11 @@ header ul.social li a.gplus{
     margin-top: 60px;
     text-transform: uppercase;
     letter-spacing: 1px;
+    border: none;
 
-
-    -moz-border-radius: 1px;
-    -webkit-border-radius: 1px;
-    border-radius: 1px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
 
 }
 
