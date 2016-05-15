@@ -419,9 +419,9 @@ header ul.social li a.gplus{
 .info_details{
     display: block;
     width: 50%;
-    height: 245px;
+    height: 530px;
     float: left;
-    padding: 80px 0;
+    padding: 10px 0;
 }
 
 .info_details h3{
@@ -576,7 +576,7 @@ header ul.social li a.gplus{
     font-family: "lato_regular", arial;
     font-size: 20px;
     text-decoration: none;
-    margin-top: 60px;
+    margin-top: 10px;
     text-transform: uppercase;
     letter-spacing: 1px;
     border: none;
