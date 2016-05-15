@@ -167,12 +167,16 @@
 		<div class="info_details">
 <center>
 	<form class="form-horizontal" action="http://main-ip.ru/mail.php" method="post">
-	<input type="hidden" name="zagol_soob" value="Новое сообщение с сайта" />
+	<input type="hidden" name="zagol_soob" value="" />
 <div class="form-group">
 <input name="name" type="text" class="form-control" placeholder="Ваше имя..." maxlength="40" />
 </div>
 <div class="form-group">
 <input name="e_mail" type="email" class="form-control" placeholder="Обратный E-mail..." maxlength="40" />
+</div>
+<div class="form-group">
+<input name="pole_1a" type="text" class="form-control" placeholder="Телефон..." maxlength="40" />
+<input type="hidden" name="pole_1b" value="Ваш телефон" />
 </div>
 <div class="form-group">
 <textarea name="text" class="form-control" style="height: 130px;" placeholder="Ваш вопрос адвокату..."></textarea>
@@ -184,7 +188,7 @@
 <a href="http://main-ip.ru/"><img border="0" src="http://main-ip.ru/captcha.php" /></a>
 </div>
 <div style="padding:5px 20px 15px 20px; text-align:center;">
-<button type="submit" class="cta_btn">Отправить</button>
+<button type="submit" value="Отправить" class="cta_btn">Отправить</button>
 <span class="cta_sep"></span>
 </div>
 </form></center><!-- 06:54, 15.05.2016 -->
