@@ -580,10 +580,11 @@ header ul.social li a.gplus{
     text-transform: uppercase;
     letter-spacing: 1px;
     border: none;
-
-    -moz-border-radius: 10px;
-    -webkit-border-radius: 10px;
-    border-radius: 10px;
+    cursor: pointer;
+    
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
 
 }
 
