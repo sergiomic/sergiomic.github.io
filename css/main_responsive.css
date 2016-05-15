@@ -400,7 +400,7 @@ header ul.social li a.gplus{
 .info{
     width: 100%;
     overflow: hidden;
-    background: #3b3b3b;
+    background: #f7f7f7;
 }
 
 .info_pic{
@@ -408,12 +408,12 @@ header ul.social li a.gplus{
     width: 50%;
     height: 405px;
     float: left;
-    background: url('../img/info_img.jpg') no-repeat;
+    /*background: url('../img/info_img.jpg') no-repeat;
 
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover;
+    -o-background-size: cover;*/
 }
 
 .info_details{
