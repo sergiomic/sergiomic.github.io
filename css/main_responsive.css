@@ -655,7 +655,7 @@ footer{
     padding: 100px 0;
     /*border-top: 1px #dedede solid;*/
     background: #535353;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 footer .rights{
@@ -676,7 +676,7 @@ footer .rights a{
 footer .contact{
 	display: inline-block;
 	color: #fff;
-	font-family: "raleway-regular", Helvetica, Arial, sans-serif;
+	font-family: "lato_regular", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	letter-spacing: 0.5px;
 }
