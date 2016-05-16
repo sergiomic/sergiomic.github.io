@@ -649,8 +649,8 @@ header ul.social li a.gplus{
 /*  Footer  */
 footer{
     padding: 100px 0;
-    border-top: 1px #dedede solid;
-    background: #f7f7f7;
+    /*border-top: 1px #dedede solid;*/
+    background: #535353;
     text-align: center;
 }
 
