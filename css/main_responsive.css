@@ -72,7 +72,7 @@
 }
 
 .wrapper span{
-	margin:20px 30px;
+	display:block;
 }
 
 ::selection {color:#ffffff;background:#353434;}
