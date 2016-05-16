@@ -71,6 +71,10 @@
     position: relative;
 }
 
+.wrapper span{
+	margin:20px 30px;
+}
+
 ::selection {color:#ffffff;background:#353434;}
 ::-moz-selection {color:#ffffff;background:#353434;}
 
