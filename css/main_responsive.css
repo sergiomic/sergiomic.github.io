@@ -673,6 +673,30 @@ footer .rights a{
     color: #3b3b3b;
 }
 
+footer .contact{
+	display: inline-block;
+	color: #fff;
+	font-family: "raleway-regular", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	letter-spacing: 0.5px;
+}
+
+footer .contact{
+	width: 215px;
+	margin-left: 80px;
+	vertical-align: top;
+}
+
+footer .contact .details{
+	margin-bottom: 30px;
+}
+
+footer p{
+	margin: 0;
+	padding: 0;
+}
+
+
 a{
     color: #3b3b3b;
 }
