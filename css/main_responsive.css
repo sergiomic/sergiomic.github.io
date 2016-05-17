@@ -223,7 +223,7 @@ header ul.social li a.gplus{
     color: #000;
     font-family: "lato_regular", arial;
     font-size: 15px;
-    padding: 0px;
+    padding: 20px;
     background: rgba(255, 255, 255, 0.6);
     margin-bottom: 2px;
     z-index: 8888;
@@ -233,7 +233,7 @@ header ul.social li a.gplus{
     color: #000;
     font-family: "lato_bold", arial;
     font-size: 15px;
-    padding: 0px;
+    padding: 20px;
     margin-bottom: 2px;
     z-index: 8888;
 }
