@@ -49,12 +49,12 @@
 
 
 @font-face {
-    font-family: 'avantgardelt-extralight';
-    src: url('../fonts/avantgardelt-extralight.eot');
-    src: url('../fonts/avantgardelt-extralight.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/avantgardelt-extralight.woff') format('woff'),
-         url('../fonts/avantgardelt-extralight.ttf') format('truetype'),
-         url('../fonts/avantgardelt-extralight.svg#avantgardelt-extralight') format('svg');
+    font-family: 'lato_light';
+    src: url('../fonts/lato-light.eot');
+    src: url('../fonts/lato-light.eot?#iefix') format('embedded-opentype'),
+         
+         url('../fonts/lato-light.ttf') format('truetype'),
+         
     font-weight: normal;
     font-style: normal;
 
@@ -211,7 +211,7 @@ header ul.social li a.gplus{
 .billboard .caption p{
     display: inline-block;
     color: #000;
-    font-family: "avantgardelt-extralight", arial;
+    font-family: "lato_light", arial;
     font-weight: lighter;
     font-size: 35px;
     padding: 20px;
