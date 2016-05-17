@@ -703,12 +703,12 @@ position: fixed;
 right:30px;
 bottom: 30px;
 /** картинка кнопки наверх**/
-background: #c9c9c9 url(/slider/img/arrow.png) no-repeat left top;
-width: 32px;
-height: 32px;
+background: #c9c9c9 url(/img/arrow.png) no-repeat left top;
+width: 52px;
+height: 52px;
 cursor: pointer;
 /** скругляем углы серого фона **/
-border-radius: 6px;
+border-radius: 100%;
 /** скрываем кнопку в начале **/
 display:none;
 /** добавляем красоты- прозрачность и плавное проявление при наведении **/
