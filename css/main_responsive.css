@@ -37,9 +37,9 @@
 
 @font-face {
     font-family: 'lato_bold';
-    src: url('../fonts/lato-bold.eot');
-    src: url('../fonts/lato-bold.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/lato-bold.woff') format('woff'),
+    /*src: url('../fonts/lato-bold.eot');*/
+    src: /*url('../fonts/lato-bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/lato-bold.woff') format('woff'),*/
          url('../fonts/lato-bold.ttf') format('truetype'),
          url('../fonts/lato-bold.svg#LatoBold') format('svg');
     font-weight: normal;
@@ -222,20 +222,18 @@ header ul.social li a.gplus{
     display: inline-block;
     color: #000;
     font-family: "lato_regular", arial;
-    
     font-size: 15px;
-    padding: 10px;
+    padding: 0px;
     background: rgba(255, 255, 255, 0.6);
     margin-bottom: 2px;
-    
     z-index: 8888;
 }
 .billboard .caption span{
     display: inline-block;
     color: #000;
-    font-family: "lato_regular", arial;
+    font-family: "lato_bold", arial;
     font-size: 15px;
-    padding: 10px;
+    padding: 0px;
     margin-bottom: 2px;
     z-index: 8888;
 }
