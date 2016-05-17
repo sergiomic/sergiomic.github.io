@@ -741,11 +741,7 @@ a{
   border-radius: 50%;
   transform: scale(1.2);
 }
-@media only screen and (max-width: 1399px) {
-  .scroller {
-    display: none !important;
-  }
-}
+
 
 
 /*  Responsive code  */
