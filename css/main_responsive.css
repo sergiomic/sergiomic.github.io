@@ -51,9 +51,7 @@
 @font-face {
     font-family: 'lato_light';
     src: url('../fonts/lato-light.eot');
-    src: url('../fonts/lato-light.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/lato-light.woff') format('woff'),
-         url('../fonts/lato-light.ttf') format('truetype');
+    src: url('../fonts/lato-light.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
