@@ -230,8 +230,15 @@ header ul.social li a.gplus{
     
     z-index: 8888;
 }
-
-
+.billboard .caption span{
+    display: inline-block;
+    color: #000;
+    font-family: "lato_regular", arial;
+    font-size: 15px;
+    padding: 10px;
+    margin-bottom: 2px;
+    z-index: 8888;
+}
 
 
 /*  Services/features  */
