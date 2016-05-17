@@ -658,19 +658,12 @@ footer{
     /*text-align: center;*/
 }
 
-footer .rights{
+footer .copyright{
     color: #3b3b3b;
     font-family: "lato_regular", arial;
     font-size: 14px;
     margin-top: 30px;
     line-height: 25px;
-}
-
-footer .rights a{
-    text-decoration: none;
-    font-family: 'lato_bold', arial;
-    font-weight: bold;
-    color: #3b3b3b;
 }
 
 footer .contact{
@@ -683,7 +676,7 @@ footer .contact{
 
 footer .contact{
 	width: 315px;
-	margin-left: 60%;
+	margin-left: 10%;
 	vertical-align: top;
 }
 
