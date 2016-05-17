@@ -700,48 +700,29 @@ a{
 
 
 #scroller{
-    position: fixed;    
-    /** позиция кнопки scroll to top **/
-
-    cursor: pointer;
-    /** скрываем кнопку в начале **/
-    display:none;
+position: fixed;
+/** позиция кнопки scroll to top **/
+right:30px;
+bottom: 30px;
+/** картинка кнопки наверх**/
+background: #c9c9c9 url(/slider/img/arrow.png) no-repeat left top;
+width: 32px;
+height: 32px;
+cursor: pointer;
+/** скругляем углы серого фона **/
+border-radius: 6px;
+/** скрываем кнопку в начале **/
+display:none;
+/** добавляем красоты- прозрачность и плавное проявление при наведении **/
+opacity: 0.3;
+-webkit-transition:all .2s ease-in-out;
+transition:all .2s ease-in-out
 }
-
-.scroller {
-  width: 47px;
-  height: 47px;
-  font-size: 24px;
-  line-height: 47px!important;
-  font-weight: 700;
-  color: #fff!important;
-  background: #07a9df;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
-  -moz-transition: 0.3s;
-  -webkit-transition: 0.3s;
-  -o-transition: 0.3s;
-  transition: 0.3s;
-  position: fixed;
-  right: 66px;
-  bottom: 180px;
-  display: none;
-  overflow: hidden;
-  text-align: center;
-  text-decoration: none;
-  z-index: 20;
+#scroller:hover {
+/** при наведении мыши делаем все ярче и отбрасываем тень **/
+opacity: 0.5;
+box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
 }
-.scroller:hover {
-  color: #fff;
-  background: #222533;
-  text-decoration: none;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
-  transform: scale(1.2);
-}
-
 
 
 /*  Responsive code  */
