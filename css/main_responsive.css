@@ -677,13 +677,13 @@ footer .contact{
 	display: inline-block;
 	color: #fff;
 	font-family: "lato_regular", Helvetica, Arial, sans-serif;
-	font-size: 14px;
+	font-size: 20px;
 	letter-spacing: 0.5px;
 }
 
 footer .contact{
-	width: 215px;
-	margin-left: 80px;
+	width: 315px;
+	margin-left: 60%;
 	vertical-align: top;
 }
 
