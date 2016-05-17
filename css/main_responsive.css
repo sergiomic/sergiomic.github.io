@@ -698,6 +698,23 @@ a{
     color: #3b3b3b;
 }
 
+.btn_fancy#back_top{
+	padding: 6px 16px;
+}
+
+.btn_fancy#back_top:hover .border_layer{
+	-webkit-transform:translate(1px,-1px);
+	    -ms-transform:translate(1px,-1px);
+	     -o-transform:translate(1px,-1px);
+	        transform:translate(1px,-1px);
+}
+.btn_fancy#back_top:hover .solid_layer{
+	-webkit-transform:translate(-1px,1px);
+	    -ms-transform:translate(-1px,1px);
+	     -o-transform:translate(-1px,1px);
+	        transform:translate(-1px,1px);
+}
+
 
 
 
