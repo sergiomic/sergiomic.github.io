@@ -694,9 +694,7 @@ footer p{
 	padding: 0 20px;
 }
 
-a{
-    color: #3b3b3b;
-}
+
 
 
 #scroller{
@@ -712,7 +710,7 @@ cursor: pointer;
 /** скругляем углы серого фона **/
 border-radius: 6px;
 /** скрываем кнопку в начале **/
-
+display:none;
 /** добавляем красоты- прозрачность и плавное проявление при наведении **/
 opacity: 0.3;
 -webkit-transition:all .2s ease-in-out;
