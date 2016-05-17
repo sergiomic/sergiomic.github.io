@@ -218,6 +218,16 @@ header ul.social li a.gplus{
     z-index: 8888;
 }
 
+.billboard .caption span{
+    display: inline-block;
+    color: #000;
+    font-family: "lato_bold", arial;
+    font-size: 15px;
+    padding: 0px;
+    margin-bottom: 2px;
+    z-index: 8888;
+}
+
 .billboard .caption .details{
     display: inline-block;
     color: #000;
@@ -228,15 +238,7 @@ header ul.social li a.gplus{
     margin-bottom: 2px;
     z-index: 8888;
 }
-.billboard .caption span{
-    display: inline-block;
-    color: #000;
-    font-family: "lato_bold", arial;
-    font-size: 15px;
-    padding: 20px;
-    margin-bottom: 2px;
-    z-index: 8888;
-}
+
 
 
 /*  Services/features  */
