@@ -208,7 +208,7 @@ header ul.social li a.gplus{
 .billboard .caption p{
     display: inline-block;
     color: #000;
-    font-family: "lato_light", arial;
+    font-family: "lato_regular", arial;
     font-weight: lighter;
     font-size: 35px;
     padding: 20px;
@@ -218,13 +218,13 @@ header ul.social li a.gplus{
     z-index: 8888;
 }
 
-.billboard .details{
+.billboard .caption .details{
     display: inline-block;
     color: #000;
     font-family: "lato_regular", arial;
-    font-weight: lighter;
-    font-size: 25px;
-    padding: 20px;
+    
+    font-size: 15px;
+    padding: 10px;
     background: rgba(255, 255, 255, 0.6);
     margin-bottom: 2px;
     
