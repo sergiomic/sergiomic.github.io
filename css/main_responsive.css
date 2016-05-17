@@ -652,7 +652,7 @@ header ul.social li a.gplus{
 
 /*  Footer  */
 footer{
-    padding: 100px 0;
+    padding: 10px 0;
     /*border-top: 1px #dedede solid;*/
     background: #535353;
     /*text-align: center;*/
@@ -697,7 +697,7 @@ footer p{
 }
 
 .row{
-	max-width:1140px;
+	/*max-width:1140px;*/
 	padding: 0 20px;
 }
 
