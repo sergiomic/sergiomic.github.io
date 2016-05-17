@@ -712,14 +712,14 @@ border-radius: 100%;
 /** скрываем кнопку в начале **/
 display:none;
 /** добавляем красоты- прозрачность и плавное проявление при наведении **/
-opacity: 0.5;
+opacity: 0.3;
 -webkit-transition:all .2s ease-in-out;
 transition:all .2s ease-in-out
 }
 #scroller:hover {
 /** при наведении мыши делаем все ярче и отбрасываем тень **/
 opacity: 1.0;
-box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.5);
 }
 
 
