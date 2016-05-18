@@ -37,9 +37,9 @@
 
 @font-face {
     font-family: 'lato_bold';
-    /*src: url('../fonts/lato-bold.eot');*/
-    src: /*url('../fonts/lato-bold.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/lato-bold.woff') format('woff'),*/
+    src: url('../fonts/lato-bold.eot');
+    src: url('../fonts/lato-bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/lato-bold.woff') format('woff'),
          url('../fonts/lato-bold.ttf') format('truetype'),
          url('../fonts/lato-bold.svg#LatoBold') format('svg');
     font-weight: normal;
