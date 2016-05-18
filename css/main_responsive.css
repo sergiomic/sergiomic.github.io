@@ -693,7 +693,7 @@ footer .contact{
 }
 
 footer .contact{
-	width: 315px;
+	/*width: 315px;*/
 	margin-left: 10%;
 	vertical-align: top;
 }
@@ -848,6 +848,11 @@ opacity: 1.0;
 }
 
 @media (max-width:500px){
+	
+	.billboard .caption p{
+    font-size: 25px;
+    padding: 15px;
+	}
 
     .features .feature{
         width: 100%;
