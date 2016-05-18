@@ -291,7 +291,7 @@ header ul.social li a.gplus{
     margin-bottom: 20px;
     color: #9e9e9e;
     font-family: "lato_regular", arial;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 22px;
 }
 
@@ -299,14 +299,14 @@ header ul.social li a.gplus{
     margin-bottom: 20px;
     color: #9e9e9e;
     font-family: "lato_regular", arial;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 22px;
 }
 
 .feature a{
     color: #848484;
     font-family: "lato_regular", arial;
-    font-size: 15px;
+    font-size: 18px;
     text-decoration: none;
     letter-spacing: .5px;
 }
@@ -849,7 +849,7 @@ opacity: 1.0;
 
 @media (max-width:500px){
 	
-	.billboard .caption p{
+    .billboard .caption p{
     font-size: 25px;
     padding: 15px;
 	}
@@ -863,6 +863,18 @@ opacity: 1.0;
     margin-bottom: 15px;
     font-size: 18px;
     }
+    
+    .feature p{
+    
+    font-size: 15px;
+    
+}
+
+    .feature ul{
+    
+    font-size: 15px;
+    
+}
     
     footer .contact{
 	display: inline-block;
