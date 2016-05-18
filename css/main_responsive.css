@@ -221,10 +221,11 @@ header ul.social li a.gplus{
 .billboard .caption span{
     display: inline-block;
     color: #000;
-    font-family: "lato_bold", arial;
+    font-family: "lato_regular", arial;
     font-size: 15px;
     padding: 0px;
     margin-bottom: 2px;
+    text-transform: none;
     z-index: 8888;
 }
 
